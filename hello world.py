@@ -1,1 +1,1 @@
-pygame.joystick.Joystick()
+pygame
